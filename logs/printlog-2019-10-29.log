@@ -1,0 +1,7 @@
+13:31:49.122 [main] INFO  gitHubPackage.MenuIn - Maximising Window
+13:31:54.043 [main] INFO  gitHubPackage.MenuIn - Reaching the URL
+13:31:54.054 [main] INFO  gitHubPackage.MenuIn - Logging to GitHub
+13:31:56.958 [main] INFO  gitHubPackage.MenuIn - Navigation menu list
+13:31:57.067 [main] INFO  gitHubPackage.MenuIn - Opening windows in new tab
+13:31:58.287 [main] INFO  gitHubPackage.MenuIn - Accessing the tabs to check title
+13:31:58.360 [main] INFO  gitHubPackage.MenuIn - Switching to open tab and comparing the title

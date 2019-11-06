@@ -1,0 +1,7 @@
+12:45:31.814 [main] DEBUG gitHubPackage.SignInTest - Searching repositories with ajax function
+12:45:31.816 [main] DEBUG gitHubPackage.SignInTest - Inside selected Repository
+12:45:36.949 [main] INFO  gitHubPackage.SignInTest - Search for new repositories
+12:45:48.985 [main] INFO  gitHubPackage.SignInTest - Inside second menu
+12:45:52.491 [main] INFO  gitHubPackage.SignInTest - Inside second menu
+12:45:55.964 [main] INFO  gitHubPackage.SignInTest - Inside second menu
+12:46:00.042 [main] INFO  gitHubPackage.SignInTest - Inside second menu
