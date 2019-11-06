@@ -18,6 +18,7 @@ public class LoginGitHub {
 		checkLogin(driver);
 
 	}
+	//User Login Class using reuse
 	public static void checkLogin(WebDriver driver) {
 		driver.findElement(By.xpath("//input[@id='login_field']")).sendKeys("smitharatish");
 		log.info("Sent user id to login field");
